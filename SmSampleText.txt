@@ -1,2 +1,3 @@
 This is SmsampleText file  in Github
 Appended 2nd line also
+Appended 3rd line ,with COMMIT -COMMENT priveded
